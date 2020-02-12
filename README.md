@@ -9,4 +9,4 @@ The costs of each operation can be provided as a parameter once the distance com
 
 Note that, the trees need to be ordered to ensure the algorithm yields sound results. 
 
-[1]: https://www.researchgate.net/profile/Dennis_Shasha3/publication/220618233_Simple_Fast_Algorithms_for_the_Editing_Distance_Between_Trees_and_Related_Problems/links/59917c2fa6fdcc10d815cebd/Simple-Fast-Algorithms-for-the-Editing-Distance-Between-Trees-and-Related-Problems.pdf
+[1]: https://doi.org/10.1137/0218082
